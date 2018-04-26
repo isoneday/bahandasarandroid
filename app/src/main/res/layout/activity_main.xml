@@ -1,0 +1,185 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+  >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <Button
+        android:id="@+id/btnalertdialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="alert dialog" />
+
+    <Button
+        android:id="@+id/btnambildatastring"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="ambil data string" />
+
+    <Button
+        android:id="@+id/btnanalogclock"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="analog clock" />
+
+    <Button
+        android:id="@+id/btncheckbox"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="check box" />
+
+    <Button
+        android:id="@+id/btncustomlistbuah"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="custom list buah" />
+
+    <Button
+        android:id="@+id/btndatapicker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="data picker" />
+
+    <Button
+        android:id="@+id/btnlinearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="linear layout" />
+    <Button
+        android:id="@+id/btnlistbuah"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="list buah" />
+ <Button
+        android:id="@+id/btnpassword"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="password" />
+
+ <Button
+        android:id="@+id/btnpopup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="pop up" />
+
+ <Button
+        android:id="@+id/btnprogressbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="progress bar" />
+ <Button
+        android:id="@+id/btnpromptdialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="promt dialog" />
+
+ <Button
+        android:id="@+id/btnradiobutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="radio button" />
+
+ <Button
+        android:id="@+id/btnratingbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="rating bar" />
+
+ <Button
+        android:id="@+id/btnrelativelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="relative layout" />
+
+ <Button
+        android:id="@+id/btnscrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="scroll view" />
+
+ <Button
+        android:id="@+id/btnseekbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="seek bar" />
+
+ <Button
+        android:id="@+id/btntablelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="table layout" />
+
+ <Button
+        android:id="@+id/btntimepicker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="time picker" />
+
+ <Button
+        android:id="@+id/btntoast"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="toast" />
+ <Button
+        android:id="@+id/btntooglebutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="toogle button" />
+ <Button
+        android:id="@+id/btnwebview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="web view" />
+ <Button
+        android:id="@+id/btncustomgridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="custom grid view" />
+
+ <Button
+        android:id="@+id/btncustomlist"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="custom list" />
+
+ <Button
+        android:id="@+id/btnedittext"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="edit text" />
+
+ <Button
+        android:id="@+id/btngridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="grid view" />
+
+ <Button
+        android:id="@+id/btnlistmobile"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="list mobile" />
+
+ <Button
+        android:id="@+id/btnlistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="list view" />
+
+ <Button
+        android:id="@+id/btnspinner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="spinner" />
+ <Button
+        android:id="@+id/btnwebviewhtml"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="web view html" />
+
+
+</LinearLayout>
+</ScrollView>
